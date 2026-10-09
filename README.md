@@ -1,4 +1,6 @@
 # javarushgo
 JavaRush Go homework repo
 
-Первый JavaRush проект, привязанный к GitHub.
+My awesome project.
+Новые изменнеия, внесенные для ветки feature/add-usage-examples
+
